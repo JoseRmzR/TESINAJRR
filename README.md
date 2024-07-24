@@ -3,7 +3,7 @@ Repositorio con los datos y los códigos utilizados en la tesina para obtención
 
 Los archivos DatosAnalisis_2021.csv y DatosAnalisis_2022.csv contienen los datos obtenidos de la ENDUTHI.
 
-Los códigos ModelosCompraVenta_2021.R y ModelosCompraVenta_2022.R el análisis hecho de los modelos presentados en la tesina.
+Los códigos ModelosCompraVenta_2021.R y ModelosCompraVenta_2022.R contienen análisis hecho de los modelos presentados en la tesina.
 
 El código.
 
